@@ -64,10 +64,10 @@ public class TweetExposure {
 		configBuild = new ConfigurationBuilder();
 
 		// Assigning public stream API keys as required.
-		configBuild.setDebugEnabled(true).setOAuthConsumerKey("juoad4e14U28YDpfJRhSZoxWW")
-				.setOAuthConsumerSecret("QOFfRAS7bnkSIwrQku3rmyjNNlOn4mkwYDrYHEJKjoKtovmZRv")
-				.setOAuthAccessToken("934411977224523776-ZjWMAdLREIhRM76bYwIYfsSLC7ICKNn")
-				.setOAuthAccessTokenSecret("IPOFo8EHhBPb8HOI6RkpBYhwqWv4sE3YcQMysZivPl0BX");
+		configBuild.setDebugEnabled(true).setOAuthConsumerKey("CONSUMER KEY")
+				.setOAuthConsumerSecret("CONSUMER SECRET")
+				.setOAuthAccessToken("ACCESS TOKEN")
+				.setOAuthAccessTokenSecret("SECRET ACCESS TOKEN");
 	}
 
 	/**
